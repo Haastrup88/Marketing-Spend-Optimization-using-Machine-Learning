@@ -18,8 +18,9 @@ Steps in developing the Model
 - Model evaluation
 
 
-  Conclusion: Given the Precision-Recall curve(PR curve) of the three model, LightGBM model gave the best performance, this is because it produced higher Precision-Recall value unlike the other two algorithm.Hence it is recommended to use thisLightGBM model developed by the business in determining how better allocation or resource for optimum ROI. 
-  ![image](https://github.com/user-attachments/assets/6a06c221-bd35-4140-8006-00f201650d5c)
+  Conclusion: Given the Precision-Recall curve(PR curve) of the three model, LightGBM model gave the best performance, this is because it produced higher Precision-Recall value unlike the other two algorithm.Hence it is recommended to use thisLightGBM model developed by the business in determining on better resource allocation for optimum ROI.
+  
+![image](https://github.com/user-attachments/assets/6a06c221-bd35-4140-8006-00f201650d5c)
 ![image](https://github.com/user-attachments/assets/ca97fcbd-5da3-4f63-8e8c-783c40b8e245)
 ![image](https://github.com/user-attachments/assets/40537835-8572-45f3-8548-09bd0c33d940)
 
